@@ -1,0 +1,9 @@
+finder:
+  csv:
+    path: "data/movies.csv"
+    delimiter: ","
+  sqlite:
+    path: "data/movies.db"
+  memory:
+    path: "data/movies.json"
+  type: csv
